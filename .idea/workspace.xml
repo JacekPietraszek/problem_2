@@ -35,6 +35,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -52,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700506672342</updated>
-      <workItem from="1700506673437" duration="5846000" />
+      <workItem from="1700506673437" duration="7089000" />
     </task>
     <servers />
   </component>
